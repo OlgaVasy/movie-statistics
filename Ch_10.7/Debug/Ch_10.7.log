@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\valued customer\documents\college\c++\ch_10.7\ch_10.7\source.cpp(60): warning C4101: 'count': unreferenced local variable
+  Ch_10.7.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\Ch_10.7\Debug\Ch_10.7.exe
+  Ch_10.7.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\Ch_10.7\Debug\Ch_10.7.pdb (Full PDB)
